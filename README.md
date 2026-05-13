@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**Lidiyajohnson07/Lidiyajohnson07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lidiyajohnson07/Lidiyajohnson07** is a ✨ _special_ ✨ repository 
 
-Here are some ideas to get you started:
+
 
 - 👋 Hi, I'm Lidiya Johnson
 🎓 Master's student in Computational Engineering at FAU Erlangen-Nürnberg, Germany
