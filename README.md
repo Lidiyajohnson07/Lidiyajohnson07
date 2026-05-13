@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**Lidiyajohnson07/Lidiyajohnson07** is a ✨ _special_ ✨ repository 
-
-
-
 - 👋 Hi, I'm Lidiya Johnson
 🎓 Master's student in Computational Engineering at FAU Erlangen-Nürnberg, Germany
 🌍 Originally from India | Currently based in Erlangen
