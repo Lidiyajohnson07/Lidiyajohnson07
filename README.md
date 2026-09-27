@@ -3,7 +3,7 @@
 - 👋 Hi, I'm Lidiya Johnson
 🎓 Master's student in Computational Engineering at FAU Erlangen-Nürnberg, Germany
 🌍 Originally from India | Currently based in Erlangen
-💡 Interested in Machine Learning and Cybersecurity
+💡 Interested in Machine Learning , medical imaging and Cybersecurity
 🛠️ Working with Python and JavaScript
 🌱 Currently building my first ML projects and expanding my skills
 📫 Reach me at: lidiyajohnson07@gmail.com
